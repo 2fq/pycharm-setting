@@ -1,0 +1,139 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/index.js" timestamp="1501074372936">
+        <mark key="[" line="6" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507952350400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/UserPage.js" timestamp="1500992683969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavLink.js" timestamp="1501317351731">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1500988545003">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavBar.js" timestamp="1503197250264">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/__test__/Footer.test.js" timestamp="1501382540892">
+        <mark key="[" line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/ProtectedRoute.js" timestamp="1501076470477">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/ToolBox.js" timestamp="1501252005409">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/__test__/NavBar.test.js" timestamp="1501384303281">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/.gitignore" timestamp="1500988426754">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/App.js" timestamp="1501383591686">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/CustomLink.js" timestamp="1501318010573">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavBar.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavBar.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iLzpjYXRhbG9nLzp0aXRsZSIgY29tcG9uZW50PXt9Lz4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDw7XD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iLzpjYXRhbG9nLzp0aXRsZSIgY29tcG9uZW50PXt9Lz4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91ZGUgcGF0aD0iLzpjYXRhbG9nIi8+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17fT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8U3dpdGNoPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hdXRoIiBjb21wb25lbnQ9e30vPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L1N3aXRjaD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3V0ZT4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm91dGU+Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDw7XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDw7XD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDw7XD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
