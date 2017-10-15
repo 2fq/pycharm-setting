@@ -18,10 +18,9 @@
       <file name="/Python Console" timestamp="1500988545003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1508033489176">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1508035167672">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavBar.js" timestamp="1503197250264">
         <mark key="'" line="21" column="8" />
@@ -34,10 +33,10 @@
         <mark key="[" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.module.ts" timestamp="1508032366678">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/ProtectedRoute.js" timestamp="1501076470477">
         <mark key="[" line="4" column="0" />
@@ -78,10 +77,11 @@
       <jump line="4" column="2" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
+      <jump line="9" column="6" filename="$USER_HOME$/PycharmProjects/blog/src/app/post/post.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -92,32 +92,32 @@
       <register name="0" type="4">
         <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PGRpdj4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICA8ZGkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dj4KICAgIDxzZWN0aW9uPjwvc2VjdGlvbj4KICA8L2Rpdj4KICA8ZGl2PgogICAgPGgxPjwvaDE+CiAgICA8cD48L3A+CiAgPC9kaXY+CjwvZGl2Pg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PCEtLVRoZSBjb250ZW50IGJlbG93IGlzIG9ubHkgYSBwbGFjZWhvbGRlciBhbmQgY2FuIGJlIHJlcGxhY2VkLi0tPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+CiAgPGgxPgogICAgV2VsY29tZSB0byB7e3RpdGxlfX0hCiAgPC9oMT4KICA8aW1nIHdpZHRoPSIzMDAiIHNyYz0iZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhacFpYZENiM2c5SWpBZ01DQXlOVEFnTWpVd0lqNEtJQ0FnSUR4d1lYUm9JR1pwYkd3OUlpTkVSREF3TXpFaUlHUTlJazB4TWpVZ016Qk1NekV1T1NBMk15NHliREUwTGpJZ01USXpMakZNTVRJMUlESXpNR3czT0M0NUxUUXpMamNnTVRRdU1pMHhNak11TVhvaUlDOCtDaUFnSUNBOGNHRjBhQ0JtYVd4c1BTSWpRek13TURKR0lpQmtQU0pOTVRJMUlETXdkakl5TGpJdExqRldNak13YkRjNExqa3RORE11TnlBeE5DNHlMVEV5TXk0eFRERXlOU0F6TUhvaUlDOCtDaUFnSUNBOGNHRjBhQ0FnWm1sc2JEMGlJMFpHUmtaR1JpSWdaRDBpVFRFeU5TQTFNaTR4VERZMkxqZ2dNVGd5TGpab01qRXVOMnd4TVM0M0xUSTVMakpvTkRrdU5Hd3hNUzQzSURJNUxqSklNVGd6VERFeU5TQTFNaTR4ZW0weE55QTRNeTR6YUMwek5Hd3hOeTAwTUM0NUlERTNJRFF3TGpsNklpQXZQZ29nSUR3dmMzWm5QZz09Ij4KPC9kaXY+CjxoMj5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IHN0YXJ0OiA8L2gyPgo8dWw+CiAgPGxpPgogICAgPGgyPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBocmVmPSJodHRwczovL2FuZ3VsYXIuaW8vdHV0b3JpYWwiPlRvdXIgb2YgSGVyb2VzPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyL2FuZ3VsYXItY2xpL3dpa2kiPkNMSSBEb2N1bWVudGF0aW9uPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYmxvZy5hbmd1bGFyLmlvLyI+QW5ndWxhciBibG9nPC9hPjwvaDI+CiAgPC9saT4KPC91bD4KCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iLzpjYXRhbG9nLzp0aXRsZSIgY29tcG9uZW50PXt9Lz4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91ZGUgcGF0aD0iLzpjYXRhbG9nIi8+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17fT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpdGNoPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hdXRoIiBjb21wb25lbnQ9e30vPgo=</text>
+        <text encoding="base64">ICAgICAgICA8U3dpdGNoPgo=</text>
       </register>
     </registers>
     <search>
