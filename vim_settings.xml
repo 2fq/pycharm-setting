@@ -42,10 +42,10 @@
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/__test__/Footer.test.js" timestamp="1501382540892">
         <mark key="[" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.module.ts" timestamp="1508335179326">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.module.ts" timestamp="1509458653354">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post.component.html" timestamp="1508333857303">
         <mark key="[" line="1" column="16" />
@@ -69,8 +69,10 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-routing.module.ts" timestamp="1508334400927">
-        <mark key="[" line="7" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-routing.module.ts" timestamp="1509459167042">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/.gitignore" timestamp="1500988426754">
         <mark key="[" line="4" column="12" />
@@ -108,7 +110,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -119,32 +121,32 @@
       <register name="0" type="4">
         <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
+        <text encoding="base64">ICAgIEFwcENvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGkK</text>
+        <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dj4KICAgIDxzZWN0aW9uPjwvc2VjdGlvbj4KICA8L2Rpdj4KICA8ZGl2PgogICAgPGgxPjwvaDE+CiAgICA8cD48L3A+CiAgPC9kaXY+CjwvZGl2Pg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLVRoZSBjb250ZW50IGJlbG93IGlzIG9ubHkgYSBwbGFjZWhvbGRlciBhbmQgY2FuIGJlIHJlcGxhY2VkLi0tPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+CiAgPGgxPgogICAgV2VsY29tZSB0byB7e3RpdGxlfX0hCiAgPC9oMT4KICA8aW1nIHdpZHRoPSIzMDAiIHNyYz0iZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhacFpYZENiM2c5SWpBZ01DQXlOVEFnTWpVd0lqNEtJQ0FnSUR4d1lYUm9JR1pwYkd3OUlpTkVSREF3TXpFaUlHUTlJazB4TWpVZ016Qk1NekV1T1NBMk15NHliREUwTGpJZ01USXpMakZNTVRJMUlESXpNR3czT0M0NUxUUXpMamNnTVRRdU1pMHhNak11TVhvaUlDOCtDaUFnSUNBOGNHRjBhQ0JtYVd4c1BTSWpRek13TURKR0lpQmtQU0pOTVRJMUlETXdkakl5TGpJdExqRldNak13YkRjNExqa3RORE11TnlBeE5DNHlMVEV5TXk0eFRERXlOU0F6TUhvaUlDOCtDaUFnSUNBOGNHRjBhQ0FnWm1sc2JEMGlJMFpHUmtaR1JpSWdaRDBpVFRFeU5TQTFNaTR4VERZMkxqZ2dNVGd5TGpab01qRXVOMnd4TVM0M0xUSTVMakpvTkRrdU5Hd3hNUzQzSURJNUxqSklNVGd6VERFeU5TQTFNaTR4ZW0weE55QTRNeTR6YUMwek5Hd3hOeTAwTUM0NUlERTNJRFF3TGpsNklpQXZQZ29nSUR3dmMzWm5QZz09Ij4KPC9kaXY+CjxoMj5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IHN0YXJ0OiA8L2gyPgo8dWw+CiAgPGxpPgogICAgPGgyPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBocmVmPSJodHRwczovL2FuZ3VsYXIuaW8vdHV0b3JpYWwiPlRvdXIgb2YgSGVyb2VzPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyL2FuZ3VsYXItY2xpL3dpa2kiPkNMSSBEb2N1bWVudGF0aW9uPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYmxvZy5hbmd1bGFyLmlvLyI+QW5ndWxhciBibG9nPC9hPjwvaDI+CiAgPC9saT4KPC91bD4KCg==</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iLzpjYXRhbG9nLzp0aXRsZSIgY29tcG9uZW50PXt9Lz4K</text>
+        <text encoding="base64">ICA8ZGkK</text>
       </register>
     </registers>
     <search>
