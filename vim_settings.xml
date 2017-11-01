@@ -27,8 +27,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app-routing.module.ts" timestamp="1509544047123">
-        <mark key="[" line="1" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app-routing.module.ts" timestamp="1509546688441">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1509542733691">
         <mark key="[" line="0" column="0" />
@@ -73,7 +75,7 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-routing.module.ts" timestamp="1509459167042">
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-routing.module.ts" timestamp="1509546550382">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -114,11 +116,11 @@
       <jump line="9" column="6" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -127,31 +129,31 @@
         <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICB7cGF0aDogJ3Bvc3QnLCBsb2FkQ2hpbGRyZW46ICdhcHAvcG9zdC9wb3N0Lm1vZHVsZSNQb3N0TW9kdWxlJ30sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEFwcENvbXBvbmVudAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">PGRpdj4K</text>
       </register>
     </registers>
     <search>
