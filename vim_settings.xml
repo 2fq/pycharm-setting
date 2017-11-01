@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/index.js" timestamp="1501074372936">
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508336052860">
+      <file name="/Dummy.txt" timestamp="1509459272539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/UserPage.js" timestamp="1500992683969">
@@ -27,10 +27,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1508333208318">
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app-routing.module.ts" timestamp="1509544047123">
+        <mark key="[" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1509542733691">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/components/NavBar.js" timestamp="1503197250264">
         <mark key="'" line="21" column="8" />
@@ -42,10 +45,11 @@
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/__test__/Footer.test.js" timestamp="1501382540892">
         <mark key="[" line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.module.ts" timestamp="1509458653354">
-        <mark key="[" line="3" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.module.ts" timestamp="1509543541536">
+        <mark key="[" line="6" column="56" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post.component.html" timestamp="1508333857303">
         <mark key="[" line="1" column="16" />
@@ -93,10 +97,10 @@
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post.module.ts" timestamp="1508335416854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.ts" timestamp="1508333806564">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.ts" timestamp="1509543072017">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -107,10 +111,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
       <jump line="9" column="6" filename="$USER_HOME$/PycharmProjects/blog/src/app/post/post.component.html" />
       <jump line="9" column="6" filename="$USER_HOME$/PycharmProjects/blog/src/app/dashboard/dashboard.component.html" />
+      <jump line="9" column="6" filename="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -122,31 +127,31 @@
         <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEFwcENvbXBvbmVudAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlLCBSb3V0ZXMgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICB0aXRsZSA9ICdhcHAnOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRpdj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGkK</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
     </registers>
     <search>
