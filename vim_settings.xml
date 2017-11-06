@@ -63,10 +63,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-list.service.ts" timestamp="1509964582375">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/post-list.service.ts" timestamp="1509966429716">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/src/app/app.component.html" timestamp="1509542733691">
         <mark key="[" line="0" column="0" />
@@ -128,7 +128,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgaHR0cDogSHR0cCkgeyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -140,31 +140,31 @@
         <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgaHR0cDogSHR0cCkgeyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcG9zdHNVcmwgPSAnJzsK</text>
+        <text encoding="base64">ICBmZXRjaFBvc3RzQnlUaW1lKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaGVhZGVycyA9IG5ldyBIZWFkZXJzKHsgJ0NvbnRlbnQtVHlwZGRlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0pOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVycywgSHR0cCB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7cGF0aDogJ3Bvc3QnLCBsb2FkQ2hpbGRyZW46ICdhcHAvcG9zdC9wb3N0Lm1vZHVsZSNQb3N0TW9kdWxlJ30sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgaHR0cDogSHR0cCkgeyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcG9zdHNVcmwgPSAnJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7cGF0aDogJycsIGNvbXBvbmVudDogVGltZWxpbmVDb21wb25lbnR9LAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaGVhZGVycyA9IG5ldyBIZWFkZXJzKHsgJ0NvbnRlbnQtVHlwZGRlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSGVhZGVycywgSHR0cCB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFwcENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICB7cGF0aDogJ3Bvc3QnLCBsb2FkQ2hpbGRyZW46ICdhcHAvcG9zdC9wb3N0Lm1vZHVsZSNQb3N0TW9kdWxlJ30sCg==</text>
       </register>
     </registers>
     <search>
