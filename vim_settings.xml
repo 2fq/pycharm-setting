@@ -100,10 +100,11 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/concordance.component.ts" timestamp="1509967868935">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/blog/src/app/post/concordance.component.ts" timestamp="1509969004184">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="14" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog/frontend/src/App.js" timestamp="1501383591686">
         <mark key="[" line="19" column="29" />
@@ -133,7 +134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYWxsZWQgYWZ0ZXIgdGhlIGNvbnN0cnVjdG9yLCBpbml0aWFsaXppbmcgaW5wdXQgcHJvcGVydGllcywgYW5kIHRoZSBmaXJzdCBjYWxsIHRvIG5nT25DaGFuZ2VzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -141,35 +142,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>import {ProtectedRoute} from './components/ProtectedRoute';</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucG9zdExpc3RCeVRpbWUgPSB0aGlzLnBvc3RMaXN0U2VydmljZS5mZXRjaFBvc3RzKHRydWUsIHVuZGVmaW5lZCk7CiAgICB0aGlzLnBvc3RMaXN0QnlUeXBlID0gdGhpcy5wb3N0TGlzdFNlcnZpY2UuZmV0Y2hQb3N0cyhmYWxzZSwgdW5kZWZpbmVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYWxsZWQgYWZ0ZXIgdGhlIGNvbnN0cnVjdG9yLCBpbml0aWFsaXppbmcgaW5wdXQgcHJvcGVydGllcywgYW5kIHRoZSBmaXJzdCBjYWxsIHRvIG5nT25DaGFuZ2VzLgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGQgJ2ltcGxlbWVudHMgT25Jbml0JyB0byB0aGUgY2xhc3MuCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMucG9zdExpc3RCeVR5cGUgPSB0aGlzLnBvc3RMaXN0U2VydmljZS5mZXRjaFBvc3RzKGZhbHNlLCB1bmRlZmluZWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDYWxsZWQgYWZ0ZXIgdGhlIGNvbnN0cnVjdG9yLCBpbml0aWFsaXppbmcgaW5wdXQgcHJvcGVydGllcywgYW5kIHRoZSBmaXJzdCBjYWxsIHRvIG5nT25DaGFuZ2VzLgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmZXRjaFBvc3RzQnlUaW1lKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBZGQgJ2ltcGxlbWVudHMgT25Jbml0JyB0byB0aGUgY2xhc3MuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJycpOwo=</text>
+        <text encoding="base64">ICBmZXRjaFBvc3RzQnlUaW1lKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgaHR0cDogSHR0cCkgeyB9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcG9zdHNVcmwgPSAnJzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaHR0cC5nZXQoJycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaGVhZGVycyA9IG5ldyBIZWFkZXJzKHsgJ0NvbnRlbnQtVHlwZGRlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgaHR0cDogSHR0cCkgeyB9Cg==</text>
       </register>
     </registers>
     <search>
