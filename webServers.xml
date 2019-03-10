@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49881f63-9cca-4da9-8998-23518687dc2a" name="root@betheguy.net:22" url="http:///">
+        <fileTransfer host="betheguy.net" port="22" privateKey="C:\Users\biubiu\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
