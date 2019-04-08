@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e2432469-e0c9-49b9-9019-34740f4f4571" name="ubuntu@betheguy.net:22" url="http:///">
+      <webServer id="9b4c8456-4939-4ea9-98a3-789aa21012c3" name="ubuntu@betheguy.net:22" url="http:///">
         <fileTransfer host="betheguy.net" port="22" privateKey="C:\Users\biubiu\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
