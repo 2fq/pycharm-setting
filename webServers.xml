@@ -1,13 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f453b599-bc84-49b6-9239-a04f8b186012" name="feature@35.230.90.221:22" url="http:///">
-        <fileTransfer host="35.230.90.221" port="22" privateKey="C:\Users\Feature\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="39bb5367-4ce6-4548-b720-867677930920" name="root@betheguy.net:22" url="http:///">
-        <fileTransfer host="betheguy.net" port="22" privateKey="C:\Users\Feature\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="8eac4db5-02b9-48ce-91a9-a4783bc28d4b" name="root@betheguy.net:22" url="http:///">
+        <fileTransfer host="betheguy.net" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
