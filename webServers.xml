@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cfc4d10a-984a-491a-aa23-63426832c7ee" name="root@jumper.2no.dev:22" url="http:///">
+        <fileTransfer host="jumper.2no.dev" port="22" privateKey="C:\Users\mwmw6\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
